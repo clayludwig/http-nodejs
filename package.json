@@ -6,5 +6,10 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.mjs"
+  },
+  "author": "Ignas Kavaliauskas",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^3.0.4"
   }
 }
